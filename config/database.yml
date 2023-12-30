@@ -73,9 +73,8 @@ test:
 # the values provided in this file. Alternatively, you can specify a connection
 # URL environment variable explicitly:
 #
-  production:
-    host: localhost
-    url: <%= lit-peak-91198-34abde2e3d04.herokuapp.com %>
+  #production:
+   
 #
 # Read https://guides.rubyonrails.org/configuring.html#configuring-a-database
 # for a full overview on how database connection configuration can be specified.
